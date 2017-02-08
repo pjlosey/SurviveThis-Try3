@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.14",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "RamaSaveSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/6c81d0b2b68f445cb24616fa39a462c2"
+		},
+		{
+			"Name": "VaRestPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f"
+		}
+	]
+}
